@@ -120,7 +120,7 @@ header h1{
   }
   .carrito{
     border: 1px solid #666;
-    width: 35%;
+    width: 100%;
     margin-top: 30px;
     border-radius: 10px;
     overflow: hidden;
@@ -148,6 +148,7 @@ header h1{
 }
 .carrito .carrito-item img{
     margin-right: 20px;
+   
 }
 .carrito .carrito-item .carrito-item-titulo{
     display: block;
